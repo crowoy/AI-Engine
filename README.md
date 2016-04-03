@@ -5,6 +5,8 @@ Voice Assistant - created using Google and Wolfram Alpha APIs
 
 //Disclaimer: excuse the horrible code.
 
+---
+
 ##The Aim
 To keep increasing its possibilities until it can eventually interpret speech, execute a command, and return an answer to a question by speech.
 
@@ -18,6 +20,10 @@ It's as simple as thinking of a question, clicking the mic icon (located to the 
 - `AI_Engine_2` - Speech Input - Text Output
 - `AI_Engine_3` - Speech Input - Speech Output
 
+---
+
 This can be viewed in action at: http://olivercrow.com/Web-Projects/AI_Engine/
+
+---
 
 Update (2016): Unfortunately some of the web browser features, which this program replied on to operate have since been removed by the web browsers (such as Google Chrome, and Firefox).
