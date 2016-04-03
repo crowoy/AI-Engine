@@ -1,0 +1,2 @@
+DirectoryIndex index.php
+Redirect 301 http://localhost/projects/AI_Engine/answer.php http://localhost/projects/AI_Engine/index.php
